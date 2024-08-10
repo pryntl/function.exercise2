@@ -13,6 +13,6 @@ function lastCharacter(word) {
   //at the end returning the main var.
   return output;
 }
-//testing.
+//testing
 console.log(lastCharacter("hehehe"));
 console.log(lastCharacter("hahaha"));
